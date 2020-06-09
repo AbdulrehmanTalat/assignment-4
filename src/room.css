@@ -1,0 +1,11 @@
+.room {
+    height: 100vh;
+}
+.Lit{
+    background-color: azure;
+    color: chartreuse;
+}
+.Dark{
+    background-color: black;
+    color:cornflowerblue;
+}
